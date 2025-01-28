@@ -19,7 +19,7 @@
 </div>
 <div align="center"> <h1> :man_technologist: About Me: </h1></div>
 
-My name is Murodjon Shomuratov :call_me_hand: ! I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
+My name is Murodjon Shomuratov! I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 - :telescope: I’m working as a Software Engineer and contributing to  backend for building web applications.
 
 <div align="center"> <h1> :hammer_and_wrench: Languages and Tools : </h1>
@@ -43,11 +43,17 @@ My name is Murodjon Shomuratov :call_me_hand: ! I am a Backend Developer <img sr
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
 * * *
+<div align="center"> 
 
-![⚙️  GitHub Statistics](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=murod699&show_icons=true&theme=dracula))
+![Anu rag's GitHub stats](https://github-readme-stats.vercel.app/api?username=murod699&show_icons=true&theme=dracula)
+</div>
 
 * * *
+<div align="center">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=murod699&theme=transparent&title_color=228c23&layout=compact)
+</div>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=murod699&style=flat-square" alt="Profile Visits">
 </p>
+
